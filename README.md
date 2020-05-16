@@ -5,5 +5,5 @@
 [![License](https://img.shields.io/github/license/romarakhlin/CoronaMap)](https://github.com/romarakhlin/CoronaMap/blob/master/LICENSE)
 
 <p align="center">
-  ![image](./banner.jpg)
+  <img width="460" height="300" src="https://www.apple.com/newsroom/images/live-action/wwdc/Apple_wwdc2020_03132020_big.jpg.large.jpg">
 </p>
