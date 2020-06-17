@@ -1,5 +1,7 @@
 # WWDC20-Submission
 
+## Rejected
+
 ![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
 [![License](https://img.shields.io/github/license/romarakhlin/WWDC20-Submission)](https://github.com/romarakhlin/WWDC20-Submission/blob/master/LICENSE)
 
